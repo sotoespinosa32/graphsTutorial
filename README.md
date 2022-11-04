@@ -1,5 +1,5 @@
 # graphsTutorial
 Code for Malick Sarr great tutorial.
 
-Original link: https://www.malicksarr.com/networkx-import-manipulate-visualize-network-python/
+Original link: https://www.malicksarr.com/networkx-import-manipulate-visualize-network-python/ \n
 Malick Sarr´s Github: https://github.com/ngorovitch
